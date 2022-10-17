@@ -3,8 +3,8 @@
 
 ## Manually
 
-- Run init.sh,
-- If no errors occurred, you can then run start.sh to start jupyter. Remember to close this screen when you are done
+- Run `init.sh`,
+- If no errors occurred, you can then run `start.sh` to start jupyter. Remember to close this screen when you are done
 
 ## Using docker
 
